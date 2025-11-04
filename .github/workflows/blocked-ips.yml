@@ -2,7 +2,7 @@ name: Update Blocked IPs
 
 on:
   schedule:
-    - cron: '*/60 * * * *'
+    - cron: '*/90 * * * *'
   workflow_dispatch:
 
 jobs:
